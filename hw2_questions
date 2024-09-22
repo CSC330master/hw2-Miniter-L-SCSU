@@ -1,0 +1,32 @@
+
+Q1
+pwd = get current directory
+ls = list items in directory 
+mkdir = make a folder in directory 
+cd = use item in directory 
+cat = print file to console
+
+Q2
+config = configer a git varaible 
+clone = download a repository on the local machine
+status = checks the status of the current local repository to see changes
+add = adds the changes of selected files to commited upon command
+commit = commits the changes that were added so you can push change to the online repository
+push = pushes all commited changes from the local repository to the online repository
+
+Q3
+i.
+I can collaborate with other classmates on homework assignments if they are part of my group. 
+However, I also must submit a list of classmates that I collaborated with on that assignment.
+ii.
+I can consult any available resource on homework except for AI tools. 
+If I do use online resources, I should be able to explain the concepts I use in my work in my own words how those 
+concepts function without having to rely on the online resource when prompted. 
+I must also submit a list of the outside resources used for that assignment.
+iii.
+Late assignments will lose 10% of their maximum grade per day that is late, 
+unless Extreme circumstances prevented a submission.
+iv.
+There is no direct consequence of missing classes. 
+However it is the student's responsibility to figure out what information or assignments they have missed 
+during the missed lecture.
